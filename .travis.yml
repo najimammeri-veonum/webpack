@@ -4,8 +4,7 @@ language: node_js
 
 branches:
   only:
-    - master
-    - next
+    - co_v4.2.15
 
 cache:
   yarn: true
